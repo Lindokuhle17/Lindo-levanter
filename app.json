@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "Lindo Bot",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -25,14 +25,14 @@
       "value": "."
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "levanter_189df3138bcb8840fc891bb579f8da55dc",
       "required": true,
       "value": ""
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "Lindo Bot❤️"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
